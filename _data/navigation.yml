@@ -10,16 +10,17 @@
 main:
   # - title: "Experience/Internships/Paper/Hackathons/Projects"
   - title: "Experience"
-    url: /Experience/
+    url: /experience/
 
-  - title: "Leadership/Community Engagement"
-    url: /talks/    
+  # - title: "Leadership/Community Engagement/Clubs"
+  - title: "Community Engagement"
+    url: /community-engagement/    
 
   - title: "Honors"
-    url: /teaching/    
+    url: /honors/    
     
   - title: "Education/Skills/Classes"
-    url: /portfolio/
+    url: /education/
         
   # - title: "Blog Posts"
   #   url: /year-archive/

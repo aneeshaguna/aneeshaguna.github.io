@@ -1,7 +1,7 @@
-# Education markdown generator for AcademicPages
+# Publications markdown generator for AcademicPages
 # 
-# Takes a TSV / CSV of education with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). 
-# Can be called via the command prompt by using `python3 education.py [filename]`.
+# Takes a TSV / CSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). 
+# Can be called via the command prompt by using `python3 publications.py [filename]`.
 
 # Data format
 # 
@@ -10,7 +10,7 @@
 # - `excerpt`, `paper_url`, and slides_url can be blank, but the others must have values. 
 # - `pub_date` must be formatted as YYYY-MM-DD.
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. 
-#    The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/education/YYYY-MM-DD-[url_slug]`
+#    The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
 import csv
 import os
 import sys
@@ -42,7 +42,7 @@ def create_md(lines: list, layout: list):
         
         # Parse the YAML variables
         md = f"---\ntitle: \"{item[layout.index('title')]}\"\n"
-        md += "collection: education"
+        md += "collection: publications"
         if len(layout) == len(HEADER_UPDATED):
             md += f"\ncategory: {item[layout.index('category')]}"
         else:
@@ -65,7 +65,7 @@ def create_md(lines: list, layout: list):
         md += f"\nRecommended citation: {item[layout.index('citation')]}"
         
         # Write the file
-        md_filename = os.path.join("../_education/", os.path.basename(md_filename))
+        md_filename = os.path.join("../_publications/", os.path.basename(md_filename))
         with open(md_filename, 'w') as f:
             f.write(md)
 
@@ -105,7 +105,7 @@ def read(filename: str) -> tuple[list, list]:
 if __name__ == '__main__':
     # Make sure a filename was given
     if len(sys.argv) != 2:
-        print('Usage: python3 education.py [filename]', file=sys.stderr)
+        print('Usage: python3 publications.py [filename]', file=sys.stderr)
         sys.exit(EXIT_ERROR)
 
     # Make sure the filename is TSV or CSV

@@ -4,7 +4,7 @@ This directory contains various ways of creating Markdown for your site. In gene
 
 ## Python Scripts
 
-The .py files are Python scripts that that can be run from the command line (ex., `python3 education.py education.csv`) with the objective of also ensuring that they have reduced requirements for packages, which may allow them to run when deploying your site from within GitHub.
+The .py files are Python scripts that that can be run from the command line (ex., `python3 publications.py publications.csv`) with the objective of also ensuring that they have reduced requirements for packages, which may allow them to run when deploying your site from within GitHub.
 
 ## Jupyter Notebooks
 

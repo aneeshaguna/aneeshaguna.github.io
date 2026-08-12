@@ -47,6 +47,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Education"
+    url: /education/
+
   - title: "Publications"
     url: /publications/
 

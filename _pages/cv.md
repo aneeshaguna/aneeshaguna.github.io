@@ -41,9 +41,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Education
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.education reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

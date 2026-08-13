@@ -1,14 +1,20 @@
 ---
 layout: archive
-title: "Interests"
-permalink: /interests/
+title: "Honors"
+permalink: /honors/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Interests
-======
+GT Presidential Merit May 2026
+website
+
+GT Scholarship? May 2025
+website
+
+Brevard Scholarship? May 2025
+website
 
 National Merit Scholarship Apr 2025
 Winner of National Merit Scholarship

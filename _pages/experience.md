@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 
+Teaching Assistant
+======
+Georgia Tech – CS 1301 TA  Aug 2026 – Present
+  * _________
+
 Northrop Grumman
 ======
 Melbourne, FL – Software Engineering Intern  May 2026 – Jul 2026

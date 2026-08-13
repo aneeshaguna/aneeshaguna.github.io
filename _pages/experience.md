@@ -9,19 +9,25 @@ author_profile: true
 
 
 Teaching Assistant
-======
+===
 Georgia Tech – CS 1301 TA  Aug 2026 – Present
   * _________
 
+Kalacharis
+===
+Dallas, FL – Software Engineer  May 2026 – Present
+  * ________________________
+  * Created a website for a startup company to showcase multiple vendors selling Indian clothing and jewelery
+
 Northrop Grumman
-======
+===
 Melbourne, FL – Software Engineering Intern  May 2026 – Jul 2026
   * Benchmarked a proprietary Java application across multiple JVMs to balance resource efficiency and performance
   * Improved the functionality of the JVM with the least resource requirements to deploy on a resource-limited drone
   * Created programs to convert formats of positional and object information for cross-client communication
 
 RoboTech Hackathon 2026
-======
+===
 Georgia Tech – Competitor and Team Member - Jan 2026
   * Programmed a System Technology Works humanoid robot to detect human faces and objects and respond to visual input and voice commands
   * Developed a web application to visualize robot data and presented it to judges, earning 5th place in the autonomous track

@@ -10,7 +10,6 @@ author_profile: true
 {% include base_path %}
 
 
-======
 * B.S. in Computer Science + Minor in Robotics, Georgia Institute of Technology, 2028 (Expected)
   * GPA: 4.00/4.00
 
@@ -27,7 +26,7 @@ Notable Classes
 * CS 1331 - Introduction to Object-Oriented Programming
 * CS 2050 - Introduction to Discrete Mathematics for Computer Science
 * MATH 1554 - Linear Algebra
-* PHYS 2211 - Intro Physics I
+* PHYS 2211 - Introduction to Physics I
 
 
 Publications

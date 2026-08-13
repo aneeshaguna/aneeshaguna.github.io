@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Activities
-======
-
-
 * LiDAR VIP Team, Georgia Tech – Team Member Jan 2026 – Present
   * Created a simulation for a humanoid robot walking through rough terrain in ROS2
   * Migrated code from ROS1 to ROS2 and updated the robot’s motion information from quadruped to humanoid

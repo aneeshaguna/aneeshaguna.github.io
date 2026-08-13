@@ -17,7 +17,6 @@ main:
   - title: "Education"
     url: /education/
 
-  # - title: "Experience/Internships/Paper/Hackathons/Projects"
   - title: "Experience"
     url: /experience/
 

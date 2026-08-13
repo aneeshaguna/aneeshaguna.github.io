@@ -8,7 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ### Languages
-Python, Java, C++, ROS2, MATLAB, Go
+Python, Java, C++, MATLAB, Go
 
 ### Technologies
-YOLOv4, Mask R-CNN, OpenCV, Image Detection, Robotics
+ROS2, YOLOv4, Mask R-CNN, OpenCV
+
+### Concepts
+Image Detection, Image Tracking, Robotics

@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+Other
+======
+* US Citizen
+* Active Secrete Security Clearance
+
 Skills
 ======
 * Skill 1

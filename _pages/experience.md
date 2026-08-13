@@ -10,13 +10,16 @@ author_profile: true
 
 ## Teaching Assistant
 Georgia Tech – CS 1301 Introduction to Computing TA  Aug 2026 – Present
-  * _________
+  * Add more!!!
+
+&nbsp;
 
 ## Kalacharis
 Dallas, FL – Software Engineer  May 2026 – Present
-  * ________________________
+  * Add more!!!
   * Created a website for a startup company to showcase multiple vendors selling Indian clothing and jewelery
-
+  * [Website Link](https://kalacharis-ensemble-newest.vercel.app)
+<br><br>
 ## Northrop Grumman
 Melbourne, FL – Software Engineering Intern  May 2026 – Jul 2026
   * Benchmarked a proprietary Java application across multiple JVMs to balance resource efficiency and performance
@@ -27,13 +30,13 @@ Melbourne, FL – Software Engineering Intern  May 2026 – Jul 2026
 Georgia Tech – Competitor and Team Member - Jan 2026
   * Programmed a System Technology Works humanoid robot to detect human faces and objects and respond to visual input and voice commands
   * Developed a web application to visualize robot data and presented it to judges, earning 5th place in the autonomous track
-[here](https://devpost.com/software/nebula-astronaut-s-best-friend)
+  * [DevPost Link](https://devpost.com/software/nebula-astronaut-s-best-friend)
 
 ## AI ATL 2025
 Georgia Tech – Competitor and Team Member - Nov 2025
   * Programmed a System Technology Works humanoid robot to detect human faces and objects and respond to visual input and voice commands
   * Developed a web application to visualize robot data and presented it to judges, earning 5th place in the autonomous track
-[here](https://devpost.com/software/speakify-w7tsme)
+  * [DevPost Link](https://devpost.com/software/speakify-w7tsme)
 
 
 ## HackGT 12
@@ -51,4 +54,5 @@ Melbourne, FL – Researcher and Intern - Jun 2024 – May 2025
 Miami, FL – Researcher, Presenter, and Main Author May 2022 – Dec 2024
   * Built and deployed a UAV-based ML pipeline for real-time object detection and tracking, achieving 96% accuracy and 0.1942 loss using YOLOv4 and Mask R-CNN
   * Research focused on assurance methods in autonomous UAV perception systems using advanced machine learning was presented and published at an IEEE conference
-  * Wrote and presented a research paper at the ICMLA ’24 conference on these findings, available [here](https://ieeexplore.ieee.org/document/10903281)
+  * Wrote and presented a research paper at the ICMLA ’24 conference on these findings
+  * [Research Paper Link](https://ieeexplore.ieee.org/document/10903281)

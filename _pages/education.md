@@ -3,33 +3,32 @@ layout: archive
 title: "Education"
 permalink: /education/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-TA
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* B.S. in Computer Science + Minor in Robotics, Georgia Institute of Technology, 2028 (Expected)
+  * GPA: 4.00/4.00
+
+Teaching Assistant
+======
+* Fall 2026: CS 1301 (Introduction to Computing)
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
   
-Skills
+
+Notable Classes
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CS 1301 - Introduction to Computing
+* CS 1331 - Introduction to Object-Oriented Programming
+* CS 2050 - Introduction to Discrete Mathematics for Computer Science
+* MATH 1554 - Linear Algebra
+* PHYS 2211 - Intro Physics I
+
 
 Publications
 ======

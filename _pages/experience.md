@@ -7,56 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Northrop Grumman, Melbourne, FL – Software Engineering Intern                                                        	  May 2026 – Jul 2026
+  * Benchmarked a proprietary Java application across multiple JVMs to balance resource efficiency and performance
+  * Improved the functionality of the JVM with the least resource requirements to deploy on a resource-limited drone
+  * Created programs to convert formats of positional and object information for cross-client communication
+[This is an external link to google](https://www.google.com)
+[This is an external link to google2](https://www.google.com/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* RoboTech Hackathon 2026, Atlanta, GA – Competitor and Team Member                                                                	        Jan 2026
+  * Programmed a System Technology Works humanoid robot to detect human faces and objects and respond to visual input and voice commands
+  * Developed a web application to visualize robot data and presented it to judges, earning 5th place in the autonomous track
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Brevard Zoo + COASTech, Melbourne, FL – Researcher and Intern                                                                  Jun 2024 – May 2025 
+  * Applied machine learning models in MATLAB to analyze aerial drone imagery for the detection of North Atlantic right whales in marine environments
+  * Enhanced image detection accuracy from a baseline of 87% to 95.4%, surpassing previously published results through model optimization and refinement
+  * Volunteered at Science Sunday events to present my research and findings to the community
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* IEEE Xplore + ICMLA ‘24, Miami, FL – Researcher, Presenter, and Main Author                           	               May 2022 – Dec 2024
+  * Built and deployed a UAV-based ML pipeline for real-time object detection and tracking, achieving 96% accuracy and 0.1942 loss using YOLOv4 and Mask R-CNN
+  * Research focused on assurance methods in autonomous UAV perception systems using advanced machine learning was presented and published at an IEEE conference
+  * Wrote and presented a research paper at the ICMLA ’24 conference on these findings, available [here](https://ieeexplore.ieee.org/document/10903281) https://ieeexplore.ieee.org/document/10903281

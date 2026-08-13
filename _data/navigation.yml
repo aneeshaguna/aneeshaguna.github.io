@@ -23,7 +23,15 @@ main:
 
   # - title: "Leadership/Community Engagement/Clubs"
   - title: "Activities"
-    url: /activities/   
+    url: /activities/
+
+  - title: "Interests"
+    url: /interests/
+
+
+
+
+    
 
   - title: "Publications"
     url: /publications/

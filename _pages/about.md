@@ -8,17 +8,11 @@ redirect_from:
 ---
 
 
----
-layout: archive
-title: "Education"
-permalink: /education/
-author_profile: true
-# redirect_from:
-#   - /resume
----
-
 {% include base_path %}
 
+
+Education
+======
 
 ## Georgia Institute of Technology
 * B.S. in Computer Science + Minor in Robotics
@@ -33,29 +27,7 @@ author_profile: true
 * MATH 1554 - Linear Algebra
 * PHYS 2211 - Introduction to Physics I
 
-## Other
-* US Citizen
-* Active Secrete Security Clearance
-
-Other
+Security Clearance
 ======
 * US Citizen
 * Active Secrete Security Clearance
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Honors
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3

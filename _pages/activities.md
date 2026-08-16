@@ -16,9 +16,9 @@ Part of the Quadrupedal Navigation subteam since January 2026 working on real-ti
   * Worked alongside graduate student Max Assemelier to test code on the physical robot (Add more!!!)
 
 ## RoboJackets
-Part of the RoboNav Software team since August 2025 working to plan, model, build, and code a robot similar to a Mars rover that can compete in the University Rover Challenge competition  \
-[URC Competition Link](https://urc.marssociety.org/home/about-urc)  \
-[GitHub Link](https://github.com/RoboJackets/urc-software)
+Part of the RoboNav Software team since August 2025 working to plan, model, build, and code a robot similar to a Mars rover that can compete in the University Rover Challenge competition
+ * [URC Competition Link](https://urc.marssociety.org/home/about-urc)
+ * [GitHub Link](https://github.com/RoboJackets/urc-software)
   * Modeled ArUco tags using CAD to mimic the standards used in the University Rover Challenge competition
   * Automated the robot’s camera to detect the type and position of ArUco tags in a ROS2 Gazebo simulation
 
@@ -27,10 +27,10 @@ Part of the RoboNav Software team since August 2025 working to plan, model, buil
   * Conducted STEM workshops for middle school students, emphasizing problem solving and hands-on learning
 
 ## FRC Robotics 801 Horsepower, Merritt Island, Florida – Programming Team Member and Lead Sep 2021 – May 2025
-  * Led the programming team for two years, contributing to multiple awards and regional championships
-  * Recognized as a Dean’s List Semifinalist nominee and award recipient for outstanding leadership, academic excellence, and impact within the team
   * [GitHub Link](https://github.com/Team801Horsepower)
-  * [News Article](https://spacecoastdaily.com/2025/05/first-robotics-team-801-horsepower-thanks-sponsor-all-points-after-outstanding-performance-at-world-championship/)
+  * [News Article](https://spacecoastdaily.com/2025/05/
+  * Led the programming team for two years, contributing to multiple awards and regional championships
+  * Recognized as a Dean’s List Semifinalist nominee and award recipient for outstanding leadership, academic excellence, and impact within the teamfirst-robotics-team-801-horsepower-thanks-sponsor-all-points-after-outstanding-performance-at-world-championship/)
 
 ## Future Problem Solvers Club, Merritt Island, Florida – Volunteer, Student Judge, and Team Member Sep 2021 – May 2025
 * Led instruction on the 6-step competition process to peers as a student leader

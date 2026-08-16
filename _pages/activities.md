@@ -17,8 +17,8 @@ Part of the Quadrupedal Navigation subteam since January 2026 working on real-ti
 
 ## RoboJackets
 Part of the RoboNav Software team since August 2025 working to plan, model, build, and code a robot similar to a Mars rover that can compete in the University Rover Challenge competition
-  * [URC Competition Link](https://urc.marssociety.org/home/about-urc)
-  * [GitHub Link](https://github.com/RoboJackets/urc-software)
+[URC Competition Link](https://urc.marssociety.org/home/about-urc)
+[GitHub Link](https://github.com/RoboJackets/urc-software)
   * Modeled ArUco tags using CAD to mimic the standards used in the University Rover Challenge competition
   * Automated the robot’s camera to detect the type and position of ArUco tags in a ROS2 Gazebo simulation
 

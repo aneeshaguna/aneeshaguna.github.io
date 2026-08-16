@@ -14,6 +14,8 @@ author_profile: true
 * Placed 3rd & 2nd in the Florida Keys International piano competitions and played at prestigious Carnegie Hall, NY as a result
 picture!!!
 ![Picture](images\Carnegie.jpeg)
+![Carnegie](https://github.com/user-attachments/assets/8378aadd-4588-492e-9655-b56d25c01c1d)
+
 
 ## Carnatic Music
 * Sang carnatic music for 11 years at concerts both solo and as a group

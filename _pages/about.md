@@ -13,7 +13,6 @@ redirect_from:
 
 Education
 ======
-
 ## Georgia Institute of Technology
 * B.S. in Computer Science + Minor in Robotics
 * Expected Graduation: May 2028
@@ -25,7 +24,8 @@ Education
 * CS 1331 - Introduction to Object-Oriented Programming
 * CS 2050 - Introduction to Discrete Mathematics for Computer Science
 * MATH 1554 - Linear Algebra
-* PHYS 2211 - Introduction to Physics I  \
+* PHYS 2211 - Introduction to Physics I
+*
 
 Security Clearance
 ======

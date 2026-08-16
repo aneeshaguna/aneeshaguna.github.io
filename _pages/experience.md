@@ -10,16 +10,17 @@ author_profile: true
 
 ## Teaching Assistant
 Georgia Tech – CS 1301 Introduction to Computing TA  Aug 2026 – Present
-  * Add more!!!
+  * Will work as a TA, conducting office hours and recitations, helping students with their questions, homework, and labs
 
-&nbsp;
+<!-- &nbsp; -->
 
 ## Kalacharis
 Dallas, FL – Software Engineer  May 2026 – Present
   * Add more!!!
   * Created a website for a startup company to showcase multiple vendors selling Indian clothing and jewelery
   * [Website Link](https://kalacharis-ensemble-newest.vercel.app)
-<br><br>
+<!-- <br><br> -->
+
 ## Northrop Grumman
 Melbourne, FL – Software Engineering Intern  May 2026 – Jul 2026
   * Benchmarked a proprietary Java application across multiple JVMs to balance resource efficiency and performance

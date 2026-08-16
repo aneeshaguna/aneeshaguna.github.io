@@ -13,7 +13,7 @@ author_profile: true
 * Earned superior (highest) ratings in the National Federation of Music Clubs Festival
 * Placed 3rd & 2nd in the Florida Keys International piano competitions and played at prestigious Carnegie Hall, NY as a result
 picture!!!
-![Picture](C:\Users\anees\OneDrive\Documentos\GitHub\Personal Website\aneeshaguna.github.io\images\Carnegie.jpeg)
+![Picture](images\Carnegie.jpeg)
 
 ## Carnatic Music
 * Sang carnatic music for 11 years at concerts both solo and as a group

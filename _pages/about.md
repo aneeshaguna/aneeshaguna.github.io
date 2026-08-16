@@ -19,6 +19,7 @@ Security Clearance
 
 
 
+&nbsp;
 
 Skills
 ======
@@ -32,6 +33,7 @@ ROS2, YOLOv4, Mask R-CNN, OpenCV
 Image Detection, Image Tracking, Robotics
 
 
+&nbsp;
 
 Georgia Institute of Technology
 ======

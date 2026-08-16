@@ -13,6 +13,9 @@ author_profile: true
 * Earned superior (highest) ratings in the National Federation of Music Clubs Festival
 * Placed 3rd & 2nd in the Florida Keys International piano competitions and played at prestigious Carnegie Hall, NY as a result
 picture!!!
+![Picture](images\Carnegie.jpeg)
+![Carnegie](https://github.com/user-attachments/assets/8378aadd-4588-492e-9655-b56d25c01c1d)
+
 ![Picture](images\Carnegie.JPG)
 
 ## Carnatic Music

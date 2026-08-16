@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,7 +25,7 @@ Education
 * CS 1331 - Introduction to Object-Oriented Programming
 * CS 2050 - Introduction to Discrete Mathematics for Computer Science
 * MATH 1554 - Linear Algebra
-* PHYS 2211 - Introduction to Physics I
+* PHYS 2211 - Introduction to Physics I  \
 
 Security Clearance
 ======

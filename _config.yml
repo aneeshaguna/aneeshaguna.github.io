@@ -23,12 +23,12 @@ repository               : "aneeshaguna/aneeshaguna.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "picture.png"
   name             : "Aneesha Guna"
   pronouns         : # example: "she/her"  
   bio              : "Sophomore studying Computer Science with a minor in Robotics"
   location         : "Atlanta, Georgia"
-  employer         : "Georgia Tech"
+  employer         : "Georgia Institute of Technology"
   uri              : # URL
   email            : "aneesha.guna@gmail.com" 
 

@@ -22,7 +22,7 @@ author_profile: true
 
 ## Sunshine State Scholar 2024
 * Awarded a one-year scholarship to a Florida public university, selected as one of 37 students statewide to receive this prestigious honor. Recognized as one of two top 11th-grade STEM students in the region.
-* [May 2024](https://www.fldoe.org/newsroom/latest-news/the-florida-department-of-education-honors-top-stem-students-at-2024-sunshine-state-scholars-conference.stml)
+* [May 2024](https://www.fldoe.org/newsroom/latest-news/the-florida-department-of-education-honors-top-stem-students-at-2024-sunshine-state-scholars-conference.stml)  \
  ![Team Picture](images/Scholar.jpg)
 
 ## FRC Dean’s List semi-finalist award

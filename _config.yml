@@ -24,6 +24,7 @@ repository               : "aneeshaguna/aneeshaguna.github.io"
 author:
   # Biographic information
   avatar           : "assets/images/picture.png"
+  avatar           : "assets/picture.png"
   name             : "Aneesha Guna"
   pronouns         : # example: "she/her"  
   bio              : "Sophomore studying Computer Science with a minor in Robotics"

@@ -23,7 +23,6 @@ repository               : "aneeshaguna/aneeshaguna.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/picture.png"
   avatar           : "assets/picture.png"
   name             : "Aneesha Guna"
   pronouns         : # example: "she/her"  

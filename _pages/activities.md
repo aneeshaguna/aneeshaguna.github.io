@@ -10,7 +10,7 @@ author_profile: true
 Part of the Quadrupedal Navigation subteam since January 2026 working on real-time robotic navigation on uneven ground
   * Created a simulation for a humanoid robot walking through rough terrain in ROS2
   * Migrated code from ROS1 to ROS2 and updated the robot’s motion information from quadruped to humanoid
-  * Worked alongside graduate student Max Assemelier to test code on the physical robot (Add more!!!)
+  * Worked alongside graduate student Max Assemelier to test code on the physical robot
   * [LiDAR Lab Link](https://lab-idar.gatech.edu/)
   * [Agile Locomotion & Manipulation VIP Link](https://vip.gatech.edu/teams/entry/1281/)
   * [Publicly Available GitHub Link](https://github.com/orgs/GTLIDAR/repositories)

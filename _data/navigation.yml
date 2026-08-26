@@ -8,11 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Skills"
-    url: /skills/
-
-  - title: "Honors"
-    url: /honors/
 
   - title: "Education"
     url: /education/
@@ -23,6 +18,12 @@ main:
   # - title: "Leadership/Community Engagement/Clubs"
   - title: "Activities"
     url: /activities/
+
+  - title: "Honors"
+    url: /honors/
+
+  - title: "Skills"
+    url: /skills/
 
   - title: "Interests"
     url: /interests/

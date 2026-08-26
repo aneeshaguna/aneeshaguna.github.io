@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## [Georgia Tech Faculty Honors](https://meritpages.com/Aneesha-Guna/9833330)
+* received through a 4.0 academic average
+* May 2026 and December 2025
+
 ## Georgia Tech Faculty Honors
 * received through a 4.0 academic average
 * [May 2026 and December 2025](https://meritpages.com/Aneesha-Guna/9833330)

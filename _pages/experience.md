@@ -10,7 +10,8 @@ author_profile: true
 
 ## Teaching Assistant
 Georgia Tech CS 1301 TA - Aug 2026 – Present
-  * Will work as a TA, conducting office hours and recitations, helping students with their questions, homework, and labs
+  * Conduct weekly office hours and recitations, helping students with their questions, homework, and labs
+  * Write and grade homework questions, exams, and labs for the class
 
 <!-- &nbsp; -->
 

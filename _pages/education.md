@@ -17,8 +17,14 @@ author_profile: true
   
 
 ## Notable Classes
-* CS 1301 - Introduction to Computing
+Ongoing:
+* CS 1332 - Data Structures & Algorithms
+* CS 2110 - Computer Organization & Programming
+* MATH 3215 - Probability & Statistics
+
+Finished:
 * CS 1331 - Introduction to Object-Oriented Programming
 * CS 2050 - Introduction to Discrete Mathematics for Computer Science
+* CS 1301 - Introduction to Computing
 * MATH 1554 - Linear Algebra
 * PHYS 2211 - Introduction to Physics I

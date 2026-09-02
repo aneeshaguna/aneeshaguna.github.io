@@ -10,8 +10,11 @@ author_profile: true
 
 ## Teaching Assistant
 Georgia Tech CS 1301 TA - Aug 2026 – Present
-  * Conduct weekly office hours and recitations, helping students with their questions, homework, and labs
-  * Write and grade homework questions, exams, and labs for the class
+  * Writes and grades homework questions, exams, and labs for the class of over 900 students
+  * Proctors exams to ensure academic integrity from students
+  * Conducts weekly office hours and recitations, helping students with the curriculum, homework, labs, and questions
+  * Attends at least two lectures weekly to answer questions from students around the lecture material and quiz answers
+
 
 <!-- &nbsp; -->
 

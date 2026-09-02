@@ -37,7 +37,7 @@ Part of the RoboNav Software team since August 2025 working to plan, model, buil
 
 ## Future Problem Solvers Club
 * Led instruction on the 6-step competition process to peers as a student leader
-* Increased club membership by 100% and supported all teams in qualifying for the state competition for the first time
+* Doubled club membership and supported all teams in qualifying for the state competition for the first time
 * Evaluated competition booklets in the district and state elementary competitions
 * Advanced to and competed in the team category at the International Conference for the past four years
 * [Competition Link](https://futureproblemsolving.org/florida/)
@@ -48,13 +48,15 @@ Part of the RoboNav Software team since August 2025 working to plan, model, buil
  ![Team Picture](images/surfing.jpg)
 
 ## MATHCOUNTS
- * Served as club president, doubling membership and guiding the team to qualify for the state-level competition
+ * Served as club president, tripling membership and guiding the team to qualify for the state-level competition
  * Mentored middle school students in applying mathematical concepts to prepare for the MATHCOUNTS competition
  * Volunteered at the district MATHCOUNTS competition, assisting with event organization and logistics
 * [Competition Link](https://www.mathcounts.org/)
 
 ## Tutoring
-* Tutored students in Math, Spanish, and Chemistry through NHS, Spanish Honors Society, and Mu Alpha Theta empowering my peers through education
+* Provided academic support for around 20 students across the middle school, high school, and AP levels, mainly in the subjects of math, science, and computer science
+* Developed strong interpersonal and communication skills through active engagement with students in one-on-one and small group sessions
+* Collaborated directly with both peers and teachers to create and review materials, improving student preparation for exams and their understanding of the subjects
 
 ## Tamil School
 * Graduated from International Tamil Academy in May 2022 after completing all levels of the program

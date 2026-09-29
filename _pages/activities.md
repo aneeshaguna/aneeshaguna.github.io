@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 {% include base_path %}
+## FIRST Robotics (FRC) Competition Volunteering
+  * Volunteering at Georgia High School FRC competitions as an FTAA (FIRST Technical Advisor Assistant)
+  * Help teams connect their robot and driver station connect to the field, and troubleshoot any issues if needed
+  * [Georgia FRC Competition Link](https://gafirst.org/frc)
+
+
 ## Agile Locomotion & Manipulation VIP Team
-Part of the Quadrupedal Navigation subteam since January 2026 working on real-time robotic navigation on uneven ground
+  * Part of the Quadrupedal Navigation subteam since January 2026 working on real-time robotic navigation on uneven ground
   * Created a simulation for a humanoid robot walking through rough terrain in ROS2
   * Migrated code from ROS1 to ROS2 and updated the robot’s motion information from quadruped to humanoid
   * Worked alongside graduate student Max Assemelier to test code on the physical robot
@@ -16,7 +22,7 @@ Part of the Quadrupedal Navigation subteam since January 2026 working on real-ti
   * [Publicly Available GitHub Link](https://github.com/orgs/GTLIDAR/repositories)
 
 ## RoboJackets
-Part of the RoboNav Software team since August 2025 working to plan, model, build, and code a robot similar to a Mars rover that can compete in the University Rover Challenge competition
+  * Part of the RoboNav Software team since August 2025 working to plan, model, build, and code a robot similar to a Mars rover that can compete in the University Rover Challenge competition
   * Modeled ArUco tags using CAD to mimic the standards used in the University Rover Challenge competition
   * Automated the robot’s camera to detect the type and position of ArUco tags in a ROS2 Gazebo simulation
  * [URC Competition Link](https://urc.marssociety.org/home/about-urc)

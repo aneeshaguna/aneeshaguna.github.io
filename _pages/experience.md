@@ -8,13 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
+## SAT Tutoring
+Varsity Tutors - Sep 2026 – Present
+  * Plans lessons and outside work for students to help them learn for the SAT
+  * Teaches English and Math SAT lessons, giving both general tips and subject specific information, to help students improve their scores
+
 ## Teaching Assistant
 Georgia Tech CS 1301 TA - Aug 2026 – Present
   * Writes and grades homework questions, exams, and labs for the class of over 900 students
   * Proctors exams to ensure academic integrity from students
   * Conducts weekly office hours and recitations, helping students with the curriculum, homework, labs, and questions
   * Attends at least two lectures weekly to answer questions from students around the lecture material and quiz answers
-
 
 <!-- &nbsp; -->
 
@@ -23,6 +27,7 @@ Software Engineer - May 2026 – Present
   * Created a website for a startup company to showcase multiple vendors selling Indian clothing, jewelery, and other related items
   * Programmed the application so that users can search for items for a particular theme, color, price range, and/or occasion
   * [Website Link](https://kalacharis-ensemble-newest.vercel.app)
+  * [GitHub Link](https://github.com/cvss898-svg/kalacharis-ensemble)
 <!-- <br><br> -->
 
 ## Northrop Grumman
@@ -36,6 +41,7 @@ Competitor and Team Member - Jan 2026
   * Programmed a System Technology Works humanoid robot to detect human faces and objects and respond to visual input and voice commands
   * Developed a web application to visualize robot data and presented it to judges, earning 5th place in the autonomous track
   * [DevPost Link](https://devpost.com/software/nebula-astronaut-s-best-friend)
+  * [GitHub Link](https://github.com/shiv2158/nebula)
 
 ## AI ATL 2025
 Competitor and Team Member - Nov 2025
@@ -47,6 +53,7 @@ Competitor and Team Member - Nov 2025
 Competitor and Team Member - Sept 2025
 * Programmed a logic algorithm for a mobile app that assigns specific roles to team members looking to create specific projects for a hackathon
 * Used Mastra.ai to integrate AI models into the app, automatically generating prompts to obtain a detailed workflow for each team member based on the generic project details entered by users
+* [GitHub Link](https://github.com/kushikashy/hackgt_productivity)
 
 ## Brevard Zoo + COASTech
 Researcher and Intern - Jun 2024 – May 2025 
